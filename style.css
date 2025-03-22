@@ -16,12 +16,12 @@ a {
 
 .header {
     background-color: #f06a6b;
-    padding-top: 15px;
+    padding: 5px;
 }
 
 .menu {
     background-color: #b22f46;
     padding-bottom: 5px;
-    padding-top: 25px;
+    padding-top: 5px;
     margin-top: -16px;
 }
