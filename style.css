@@ -1,6 +1,4 @@
 h1 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 3.5em;
     color: #ffffff;
 }
 
@@ -17,6 +15,8 @@ a {
 .header {
     background-color: #f06a6b;
     padding: 5px;
+    font-family: 'Montserrat', "sans-serif";
+    font-size: 2.5em;
 }
 
 .menu {
@@ -24,4 +24,10 @@ a {
     padding-bottom: 5px;
     padding-top: 5px;
     margin-top: -16px;
+    font-size: 1.5em;
+}
+
+.about-me {
+    font-size: 2em;
+    font-family: 'Montserrat', "sans-serif";
 }
