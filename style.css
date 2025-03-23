@@ -36,3 +36,12 @@ a {
     font-size: 1.2em;
     font-family: 'Manrope', "sans-serif";
 }
+
+.main-title {
+    color: #ffffff;
+}
+
+.main-title:hover, .main-title:active, .maint-title:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
