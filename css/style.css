@@ -84,6 +84,43 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+header h1{
+  background-color: #f16969;
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  padding: 4% 0%;
+  margin: 0%;
+  font-size: 2em;
+}
+
+.top-nav {
+  background-color: #b33448;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.top-nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 2% 4%;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.top-nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.top-nav a.active {
+  background-color: #f2888c;
+  color: white;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
